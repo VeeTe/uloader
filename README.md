@@ -1,5 +1,5 @@
 # uloader
-Command-line file downloading tool (from URL)
+Command-line file uploading tool (to netcat)
 
 ## Usage:
 ```uloader.exe https://10.1.1.1/file.zip C:\Temp\file.zip```
